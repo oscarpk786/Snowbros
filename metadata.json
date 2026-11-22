@@ -1,0 +1,6 @@
+{
+  "name": "Snow Bros: Frost Castle",
+  "description": "Classic 60fps single-screen arcade platformer where you encase castle monsters in giant snowballs, roll chain-crush combos, collect power potions, and defeat frost bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
